@@ -67,6 +67,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .box_1 {
 }
 .table_cell {
@@ -89,6 +91,9 @@
 }
 .radio_button {
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .primary_button {
   color:#FFFFFF;
