@@ -2765,3 +2765,48 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2111_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1179px;
+  height:2px;
+}
+#u2111 {
+  position:absolute;
+  left:582px;
+  top:149px;
+  width:1178px;
+  height:1px;
+  color:#169BD5;
+}
+#u2112 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:1174px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2113_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:50px;
+}
+#u2113 {
+  position:absolute;
+  left:1759px;
+  top:135px;
+  width:360px;
+  height:50px;
+  text-align:left;
+}
+#u2114 {
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:356px;
+  word-wrap:break-word;
+}
